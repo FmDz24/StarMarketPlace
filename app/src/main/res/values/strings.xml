@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarMarketPlace</string>
+    <string name="app_name1">Star</string>
+    <string name="app_name2">MarketPlace</string>
+    <string name="no_desk">no_desk</string>
+    <string name="contact_txt">Контакты</string>
+    <string name="about_us">Про нас</string>
+    <string name="main_txt">Главная</string>
+    <string name="avto_txt">Авто</string>
+</resources>
